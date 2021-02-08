@@ -1,0 +1,172 @@
+.login {
+    position: relative;
+    top: -412px;
+    left: 968px;
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    border: transparent;
+}
+.create-act {
+    position: relative;
+    top: -413px;
+    left: 985px;
+    border: solid 2px white;
+    padding: 12px;
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+    background-color: transparent;
+    color: white;
+}
+.logo {
+    position: absolute;
+    top: 25%;
+    color: red;
+    left: 47%;
+    font-size: 80px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    border-radius: 50%;
+}
+.heading {
+    position: relative;
+    top: -280px;
+    left: 40px;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 2.53;
+    font-stretch: normal;
+    font-style: normal;
+    font-family: poppins;
+}
+.dd_search {
+    position: relative;
+    top: -285px;
+    left: 392px;
+    width: 245px;
+    height: 50px;
+    font-size: 17px;
+    color: #636f88;
+    text-align: left;
+    padding-left: 20px;
+}
+.dd {
+    width: 225px;
+    height: 50px;
+    color: gray;
+    border:solid 1px gray;
+    margin-left: -20px;
+    text-align: left;
+    padding-left: 18px;
+    font-size: 14px;
+}
+.search_bar {
+    position: relative;
+    top: -50px;
+    left: 225px;
+    background-color: white;
+    background-image: url(./images/search.png);
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    padding: 21px 57px 18px 40px;
+    width: 385px;
+    height: 50px;
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: normal;
+    border: none;
+    background-position: left;
+    background-position-x: 10px;
+}
+.quick_searches {
+    position: relative;
+    top: -200px;
+    left: -35px;
+    width: 239px;
+    height: 43px;
+    margin: 48px 151px 7px 113px;
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.discover_restaurants_by_type_of_meal {
+    position: relative;
+    top: -200px;
+    left: -35px;
+    width: 331px;
+    height: 25px;
+    margin: 7px 59px 33px 113px;
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+.inline {
+    display: inline-block;
+    position: relative;
+    top: -110px;
+    left: 45px;
+    width: 330px;
+    height: 121px;
+    border: solid 2px white;
+    margin: -97px -18px 85px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+.image {
+    position: relative;
+    top: -7px;
+    left: 0px;
+    margin-top: 7px;
+    width: 130px;
+    height: 121px;
+}
+.right_heading {
+    position: relative;
+    top: -135px;
+    left: 135px;
+    width: 88px;
+    height: 25px;
+    margin: 25px 49px 4px 29px;
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.right_subheading {
+    position: relative;
+    top: -135px;
+    left: 135px;
+    width: 137px;
+    height: 62px;
+    margin: 4px 0px 44px 29px;
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}    
